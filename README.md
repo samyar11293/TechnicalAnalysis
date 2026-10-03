@@ -10,9 +10,7 @@ This R Shiny application downloads historical stock data from Yahoo Finance and 
 
 ## Repository link
 
-Replace `YOUR-USERNAME` after the repository is uploaded:
-
-<https://github.com/YOUR-USERNAME/TechnicalAnalysis/tree/main/Assignment06>
+<https://github.com/samyar11293/TechnicalAnalysis>
 
 ## Features mapped to the assignment
 
@@ -67,7 +65,7 @@ SMA and EMA share the price scale and are overlaid directly on the price chart. 
 - [ ] Confirm short period is less than long period.
 - [ ] Confirm invalid symbols and short date ranges show friendly errors.
 - [ ] Confirm Buy/Sell annotations and the signal table agree.
-- [ ] Replace the GitHub placeholder and verify the public link in a private browser window.
+- [ ] Verify the public repository link in a private browser window.
 
 ## Academic and financial-use notice
 
